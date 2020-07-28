@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/social",
+  "port": "3100",
+  "requiresAuth": true
+}

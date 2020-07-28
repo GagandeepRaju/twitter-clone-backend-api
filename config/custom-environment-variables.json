@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "social_jwtPrivateKey",
+  "db": "social_db"
+}
